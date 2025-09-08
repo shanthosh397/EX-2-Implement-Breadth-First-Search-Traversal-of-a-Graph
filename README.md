@@ -1,6 +1,6 @@
 # EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name:** SHANTHOSH G
 
 **Register Number:**
 
